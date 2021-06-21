@@ -9,6 +9,6 @@ int main(void)
 	/**
 	 * this code prints the line below
 	 */
-	puts("\"Programming is like bilding a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
