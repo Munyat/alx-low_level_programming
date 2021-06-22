@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
  * main - print "Holberton" followed by a newline.
- * You are not allowed to use starndard libraries
- * return: 0
+ * Description: You are not allowed to use starndard libraries
+ * return: 0 
  */
 int main(void)
 {
