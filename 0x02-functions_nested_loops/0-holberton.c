@@ -7,7 +7,7 @@
 int main(void)
 {
 	char holberton[] = "Holberton";
-	init i = 0;
+	int i = 0;
 
 	while (holberton[i] != '\0')
 	{
